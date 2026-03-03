@@ -79,8 +79,6 @@ PdfViewer(
 | `enableZoom` | `Boolean` | `true` | Enables pinch-to-zoom and pan |
 | `horizontalMode` | `Boolean` | `false` | Switches scroll direction to horizontal |
 | `pageSpacing` | `Dp` | `12.dp` | Vertical/horizontal padding between pages |
-| `showThumbnails` | `Boolean` | `false` | Shows a scrollable thumbnail sidebar |
-| `thumbnailWidth` | `Dp` | `70.dp` | Width of the thumbnail sidebar |
 
 ---
 
