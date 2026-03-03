@@ -1,6 +1,5 @@
 [![](https://jitpack.io/v/Coroukoda/IndexPdfViewer.svg)](https://jitpack.io/#Coroukoda/IndexPdfViewer)
 
-# IndexPdfViewer
 # 📄 index-pdf-viewer
 
 A lightweight, customizable PDF viewer library for **Android Jetpack Compose**.  
