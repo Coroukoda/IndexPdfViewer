@@ -1,0 +1,59 @@
+/build
+#######################
+# Android
+#######################
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+
+# Built outputs
+/build
+/app/build
+/index_pdf_viewer/build
+
+# Local config
+local.properties
+*.keystore
+*.jks
+
+#######################
+# Gradle
+#######################
+.gradle/
+gradle-wrapper.jar
+build/
+!gradle-wrapper.properties
+
+#######################
+# Android Studio / IntelliJ
+#######################
+.idea/
+*.iml
+*.iws
+*.ipr
+.DS_Store
+captures/
+.externalNativeBuild/
+.cxx/
+
+#######################
+# Kotlin
+#######################
+*.kotlin_module
+
+#######################
+# Signing & Secrets
+#######################
+keystore.properties
+google-services.json
+*.p12
+*.pem
+
+#######################
+# OS
+#######################
+.DS_Store
+Thumbs.db
+desktop.ini
