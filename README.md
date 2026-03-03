@@ -68,8 +68,6 @@ PdfViewer(
         enableZoom = true,        // Enable pinch-to-zoom
         horizontalMode = false,   // true = horizontal scroll, false = vertical
         pageSpacing = 12.dp,      // Space between pages
-        showThumbnails = true,    // Show thumbnail sidebar
-        thumbnailWidth = 70.dp    // Width of the thumbnail sidebar
     )
 )
 ```
