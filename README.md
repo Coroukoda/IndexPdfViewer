@@ -82,30 +82,6 @@ PdfViewer(
 
 ---
 
-## 🧭 Controlling the Viewer Programmatically
-
-Use `PdfViewerState` to observe or control the current page:
-
-```kotlin
-val state = rememberPdfViewerState()
-
-PdfViewer(
-    file = file,
-    state = state
-)
-
-// Read the current visible page (derived from scroll position)
-Text("Page: ${state.currentPage + 1}")
-
-// Scroll to a specific page
-val scope = rememberCoroutineScope()
-Button(onClick = { scope.launch { state.listState.animateScrollToItem(4) } }) {
-    Text("Go to page 5")
-}
-```
-
----
-
 ## 🏗️ Project Structure
 
 ```
