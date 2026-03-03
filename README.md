@@ -1,3 +1,5 @@
+[![](https://jitpack.io/v/Coroukoda/IndexPdfViewer.svg)](https://jitpack.io/#Coroukoda/IndexPdfViewer)
+
 # IndexPdfViewer
 # 📄 index-pdf-viewer
 
