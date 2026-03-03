@@ -1,0 +1,58 @@
+com.coroukoda.indexpdf.app-savedstate-0 C:\Users\Indexer\.gradle\caches\9.2.1\transforms\026feb494a0bbd09dc64c4f21a2fcafb\workspace\transformed\savedstate\res
+com.coroukoda.indexpdf.app-emoji2-views-helper-1.4.0-1 C:\Users\Indexer\.gradle\caches\9.2.1\transforms\05ff8e19ee7f814a525b0b70144f5951\workspace\transformed\emoji2-views-helper-1.4.0\res
+com.coroukoda.indexpdf.app-ui-2 C:\Users\Indexer\.gradle\caches\9.2.1\transforms\0974fd39f907f05b84755bd32b1b1ab5\workspace\transformed\ui\res
+com.coroukoda.indexpdf.app-profileinstaller-1.4.0-3 C:\Users\Indexer\.gradle\caches\9.2.1\transforms\0ab3ce61d09cc4ca2cbd0b694a3cf419\workspace\transformed\profileinstaller-1.4.0\res
+com.coroukoda.indexpdf.app-core-runtime-2.2.0-4 C:\Users\Indexer\.gradle\caches\9.2.1\transforms\11ce4d248c4f1a91abd54ad48956e1a2\workspace\transformed\core-runtime-2.2.0\res
+com.coroukoda.indexpdf.app-material-5 C:\Users\Indexer\.gradle\caches\9.2.1\transforms\187cb56405bef48a8536f261ba531a56\workspace\transformed\material\res
+com.coroukoda.indexpdf.app-material-1.13.0-6 C:\Users\Indexer\.gradle\caches\9.2.1\transforms\1c184e3f43651ab13082a64503a4cc56\workspace\transformed\material-1.13.0\res
+com.coroukoda.indexpdf.app-lifecycle-runtime-7 C:\Users\Indexer\.gradle\caches\9.2.1\transforms\1f34ae707a704e9b62cd2c3bed79e609\workspace\transformed\lifecycle-runtime\res
+com.coroukoda.indexpdf.app-lifecycle-process-2.10.0-8 C:\Users\Indexer\.gradle\caches\9.2.1\transforms\210352c116b7774de0cea950939fc400\workspace\transformed\lifecycle-process-2.10.0\res
+com.coroukoda.indexpdf.app-core-1.17.0-9 C:\Users\Indexer\.gradle\caches\9.2.1\transforms\4225e052e3b19655440c55992446539a\workspace\transformed\core-1.17.0\res
+com.coroukoda.indexpdf.app-foundation-10 C:\Users\Indexer\.gradle\caches\9.2.1\transforms\432fa1e360837ccd071afc96b515cec9\workspace\transformed\foundation\res
+com.coroukoda.indexpdf.app-appcompat-resources-1.7.1-11 C:\Users\Indexer\.gradle\caches\9.2.1\transforms\48a3cab9ebf3e89240307a1a477ede20\workspace\transformed\appcompat-resources-1.7.1\res
+com.coroukoda.indexpdf.app-activity-1.12.4-12 C:\Users\Indexer\.gradle\caches\9.2.1\transforms\4942fcb4d3a1f5d95f711b55271d5303\workspace\transformed\activity-1.12.4\res
+com.coroukoda.indexpdf.app-transition-1.6.0-13 C:\Users\Indexer\.gradle\caches\9.2.1\transforms\53c4e9512d36159f2d4dbcafd0e4b13a\workspace\transformed\transition-1.6.0\res
+com.coroukoda.indexpdf.app-cardview-1.0.0-14 C:\Users\Indexer\.gradle\caches\9.2.1\transforms\5a91826c8d1ac8fca6137e5d5dc87c37\workspace\transformed\cardview-1.0.0\res
+com.coroukoda.indexpdf.app-window-1.5.0-15 C:\Users\Indexer\.gradle\caches\9.2.1\transforms\610b352ee69adcc55dbbd7226c3857ff\workspace\transformed\window-1.5.0\res
+com.coroukoda.indexpdf.app-lifecycle-livedata-core-ktx-2.10.0-16 C:\Users\Indexer\.gradle\caches\9.2.1\transforms\68654f3837ab30229a4a27ee3b6e5887\workspace\transformed\lifecycle-livedata-core-ktx-2.10.0\res
+com.coroukoda.indexpdf.app-customview-poolingcontainer-1.0.0-17 C:\Users\Indexer\.gradle\caches\9.2.1\transforms\749a1815a0ff44a9c0a68669244b10ef\workspace\transformed\customview-poolingcontainer-1.0.0\res
+com.coroukoda.indexpdf.app-activity-ktx-1.12.4-18 C:\Users\Indexer\.gradle\caches\9.2.1\transforms\7d9adf2309de8a9fb98aba82c6b82bd4\workspace\transformed\activity-ktx-1.12.4\res
+com.coroukoda.indexpdf.app-annotation-experimental-1.4.1-19 C:\Users\Indexer\.gradle\caches\9.2.1\transforms\7e4af57e33a476560ef017212c47b4e3\workspace\transformed\annotation-experimental-1.4.1\res
+com.coroukoda.indexpdf.app-drawerlayout-1.1.1-20 C:\Users\Indexer\.gradle\caches\9.2.1\transforms\814fc5055f22e74bb9b58ba7d44d185e\workspace\transformed\drawerlayout-1.1.1\res
+com.coroukoda.indexpdf.app-dynamicanimation-1.1.0-21 C:\Users\Indexer\.gradle\caches\9.2.1\transforms\97793ca3b2f764503d73e1a732cc7ba4\workspace\transformed\dynamicanimation-1.1.0\res
+com.coroukoda.indexpdf.app-material3-22 C:\Users\Indexer\.gradle\caches\9.2.1\transforms\99d6fddf032e0dae6a4631478c9d515f\workspace\transformed\material3\res
+com.coroukoda.indexpdf.app-viewpager2-1.0.0-23 C:\Users\Indexer\.gradle\caches\9.2.1\transforms\9a5479a86db41cdb3ce18e496384bf0c\workspace\transformed\viewpager2-1.0.0\res
+com.coroukoda.indexpdf.app-lifecycle-viewmodel-ktx-2.10.0-24 C:\Users\Indexer\.gradle\caches\9.2.1\transforms\9c0d5fdaad4033af2ff21e6cfdbdf48a\workspace\transformed\lifecycle-viewmodel-ktx-2.10.0\res
+com.coroukoda.indexpdf.app-core-viewtree-1.0.0-25 C:\Users\Indexer\.gradle\caches\9.2.1\transforms\9d1b5f8e00ce49a09648f2429b0d1867\workspace\transformed\core-viewtree-1.0.0\res
+com.coroukoda.indexpdf.app-emoji2-1.4.0-26 C:\Users\Indexer\.gradle\caches\9.2.1\transforms\9efa933f3e26fa12de1366f0471ddbb7\workspace\transformed\emoji2-1.4.0\res
+com.coroukoda.indexpdf.app-graphics-path-1.0.1-27 C:\Users\Indexer\.gradle\caches\9.2.1\transforms\a1dbfebb2b21bbb52841d13f832c6769\workspace\transformed\graphics-path-1.0.1\res
+com.coroukoda.indexpdf.app-recyclerview-1.2.1-28 C:\Users\Indexer\.gradle\caches\9.2.1\transforms\a5fa7953e8713945e90369a31796167c\workspace\transformed\recyclerview-1.2.1\res
+com.coroukoda.indexpdf.app-lifecycle-livedata-2.10.0-29 C:\Users\Indexer\.gradle\caches\9.2.1\transforms\a83703d49fb706730fd5b34bef41f924\workspace\transformed\lifecycle-livedata-2.10.0\res
+com.coroukoda.indexpdf.app-lifecycle-viewmodel-30 C:\Users\Indexer\.gradle\caches\9.2.1\transforms\af9084919da5b70ab5f7c847a38ac57e\workspace\transformed\lifecycle-viewmodel\res
+com.coroukoda.indexpdf.app-activity-compose-1.12.4-31 C:\Users\Indexer\.gradle\caches\9.2.1\transforms\b4a5a794164afad39c52a04a2ceee6a9\workspace\transformed\activity-compose-1.12.4\res
+com.coroukoda.indexpdf.app-coordinatorlayout-1.1.0-32 C:\Users\Indexer\.gradle\caches\9.2.1\transforms\b91b554326aa507571b7ea422d8fb2cc\workspace\transformed\coordinatorlayout-1.1.0\res
+com.coroukoda.indexpdf.app-startup-runtime-1.1.1-33 C:\Users\Indexer\.gradle\caches\9.2.1\transforms\b9f91a7dbf721a3ae84122c1370b10fc\workspace\transformed\startup-runtime-1.1.1\res
+com.coroukoda.indexpdf.app-ui-tooling-34 C:\Users\Indexer\.gradle\caches\9.2.1\transforms\bd6d556f5b374d63ac97e6281543f62f\workspace\transformed\ui-tooling\res
+com.coroukoda.indexpdf.app-material-icons-extended-release-35 C:\Users\Indexer\.gradle\caches\9.2.1\transforms\c4179280577cd5da09711b29105e3b04\workspace\transformed\material-icons-extended-release\res
+com.coroukoda.indexpdf.app-savedstate-ktx-1.4.0-36 C:\Users\Indexer\.gradle\caches\9.2.1\transforms\c5a15c664bf584ec40d3781cbdef6e8c\workspace\transformed\savedstate-ktx-1.4.0\res
+com.coroukoda.indexpdf.app-ui-test-manifest-1.10.4-37 C:\Users\Indexer\.gradle\caches\9.2.1\transforms\c5d2d31f161e69bec897d5ffa3409db5\workspace\transformed\ui-test-manifest-1.10.4\res
+com.coroukoda.indexpdf.app-material-icons-core-release-38 C:\Users\Indexer\.gradle\caches\9.2.1\transforms\cf83aa8412a5ce237e96678aeeb3a854\workspace\transformed\material-icons-core-release\res
+com.coroukoda.indexpdf.app-fragment-1.5.4-39 C:\Users\Indexer\.gradle\caches\9.2.1\transforms\d0199032c9dbaa3014b278b562e56bcb\workspace\transformed\fragment-1.5.4\res
+com.coroukoda.indexpdf.app-appcompat-1.7.1-40 C:\Users\Indexer\.gradle\caches\9.2.1\transforms\d1685d67aca49a8bae6aac7ae5086652\workspace\transformed\appcompat-1.7.1\res
+com.coroukoda.indexpdf.app-constraintlayout-2.1.0-41 C:\Users\Indexer\.gradle\caches\9.2.1\transforms\d28d0082c47cfe5bd86334e4aa731b50\workspace\transformed\constraintlayout-2.1.0\res
+com.coroukoda.indexpdf.app-core-ktx-1.17.0-42 C:\Users\Indexer\.gradle\caches\9.2.1\transforms\dccbfe20e1ed332c35a8c3109c7e67ff\workspace\transformed\core-ktx-1.17.0\res
+com.coroukoda.indexpdf.app-runtime-saveable-43 C:\Users\Indexer\.gradle\caches\9.2.1\transforms\e026356bdbb4030605016448bbb9d8a2\workspace\transformed\runtime-saveable\res
+com.coroukoda.indexpdf.app-lifecycle-livedata-core-2.10.0-44 C:\Users\Indexer\.gradle\caches\9.2.1\transforms\e5ca5f365310365b07e5c6abbea9b695\workspace\transformed\lifecycle-livedata-core-2.10.0\res
+com.coroukoda.indexpdf.app-navigationevent-45 C:\Users\Indexer\.gradle\caches\9.2.1\transforms\e805bc4258b45d2b1c6873754e662961\workspace\transformed\navigationevent\res
+com.coroukoda.indexpdf.app-ui-graphics-46 C:\Users\Indexer\.gradle\caches\9.2.1\transforms\ecb0b90798ef4fe1b3bba0c854f5ac06\workspace\transformed\ui-graphics\res
+com.coroukoda.indexpdf.app-tracing-1.2.0-47 C:\Users\Indexer\.gradle\caches\9.2.1\transforms\f58b265e87989207cbd3cfa10d885d2a\workspace\transformed\tracing-1.2.0\res
+com.coroukoda.indexpdf.app-graphics-shapes-release-48 C:\Users\Indexer\.gradle\caches\9.2.1\transforms\fc1dc119861d73e43922ea36eb8dc43d\workspace\transformed\graphics-shapes-release\res
+com.coroukoda.indexpdf.app-ui-text-49 C:\Users\Indexer\.gradle\caches\9.2.1\transforms\fdf10db5979ef0be6c3d748ab5695d47\workspace\transformed\ui-text\res
+com.coroukoda.indexpdf.app-pngs-50 D:\resume projects\IndexPdf\app\build\generated\res\pngs\debug
+com.coroukoda.indexpdf.app-updated_navigation_xml-51 D:\resume projects\IndexPdf\app\build\generated\updated_navigation_xml\debug
+com.coroukoda.indexpdf.app-packageDebugResources-52 D:\resume projects\IndexPdf\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.coroukoda.indexpdf.app-packageDebugResources-53 D:\resume projects\IndexPdf\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.coroukoda.indexpdf.app-debug-54 D:\resume projects\IndexPdf\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.coroukoda.indexpdf.app-debug-55 D:\resume projects\IndexPdf\app\src\debug\res
+com.coroukoda.indexpdf.app-main-56 D:\resume projects\IndexPdf\app\src\main\res
+com.coroukoda.indexpdf.app-debug-57 D:\resume projects\IndexPdf\index_pdf_viewer\build\intermediates\packaged_res\debug\packageDebugResources
