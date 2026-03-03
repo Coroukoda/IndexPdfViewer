@@ -17,7 +17,6 @@ import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import com.coroukoda.index_pdf_viewer.core.PdfConfig
-import com.coroukoda.index_pdf_viewer.core.ThumbnailPosition
 import com.coroukoda.index_pdf_viewer.viewer.PdfViewer
 import com.coroukoda.index_pdf_viewer.viewer.rememberPdfViewerState
 import com.coroukoda.indexpdf.ui.theme.IndexPdfTheme
