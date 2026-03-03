@@ -1,4 +1,5 @@
-# IndexPdfViewer
+[![](https://jitpack.io/v/Coroukoda/IndexPdfViewer.svg)](https://jitpack.io/#Coroukoda/IndexPdfViewer)
+
 # 📄 index-pdf-viewer
 
 A lightweight, customizable PDF viewer library for **Android Jetpack Compose**.  
@@ -24,7 +25,8 @@ Add the dependency to your `build.gradle.kts` (app module):
 
 ```kotlin
 dependencies {
-    implementation("com.coroukoda:index-pdf-viewer:<version>")
+
+    implementation("com.github.Coroukoda:IndexPdfViewer:v1.0.0")
 }
 ```
 
