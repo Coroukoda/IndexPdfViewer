@@ -45,8 +45,8 @@ afterEvaluate {
         publications {
             create<MavenPublication>("release") {
                 from(components["release"])
-                groupId = "com.github.YourGitHubUsername"
-                artifactId = "index-pdf-viewer"
+                groupId = "com.github.Coroukoda"
+                artifactId = "IndexPdfViewer"
                 version = "1.0.0"
             }
         }
@@ -70,4 +70,5 @@ dependencies {
     implementation("androidx.compose.foundation:foundation:1.7.8")
     implementation("androidx.compose.material3:material3:1.3.1")
     implementation("androidx.compose.material:material-icons-extended:1.7.8")
+
 }
