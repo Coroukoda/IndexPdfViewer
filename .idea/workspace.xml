@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e06365fd-4b8b-49a5-9b8c-8416c4cb71fa" name="Changes" comment="Delete IntelliJ IDEA configuration and Git ignore files" />
+    <list default="true" id="e06365fd-4b8b-49a5-9b8c-8416c4cb71fa" name="Changes" comment="Delete IntelliJ IDEA configuration and Git ignore files">
+      <change beforePath="$PROJECT_DIR$/.gradle/9.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/9.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/9.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/9.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/9.2.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/coroukoda/indexpdf/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/coroukoda/indexpdf/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index_pdf_viewer/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/index_pdf_viewer/build.gradle.kts" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +24,7 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[PhysicalDevice::serial=RF8R31P2VVR]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -54,6 +65,7 @@
   <component name="GradleScriptDefinitionsStorage" workingDir="$PROJECT_DIR$" gradleHome="C:\Users\Indexer\.gradle\wrapper\dists\gradle-9.2.1-bin\2t0n5ozlw9xmuyvbp7dnzaxug\gradle-9.2.1" javaHome="C:\Program Files\Android\Android Studio\jbr" gradleVersion="9.2.1">
     <option name="jvmArguments">
       <list>
+        <option value="-Dorg.gradle.kotlin.dsl.provider.mode=classpath" />
         <option value="-Didea.compose.hot-reload=true" />
         <option value="-Didea.compose.hot-reload.version=2" />
       </list>
@@ -83,7 +95,7 @@
     "cidr.known.project.marker": "true",
     "com.google.services.firebase.aqiPopupShown": "true",
     "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "ibrahim",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/resume projects/IndexPdf/app/src/main/assets",
     "project.structure.last.edited": "Modules",
@@ -226,5 +238,26 @@
     <MESSAGE value="Remove unused `ThumbnailPosition` import in `MainActivity.kt`" />
     <MESSAGE value="Delete IntelliJ IDEA configuration and Git ignore files" />
     <option name="LAST_COMMIT_MESSAGE" value="Delete IntelliJ IDEA configuration and Git ignore files" />
+  </component>
+  <component name="play_dynamic_filters_status">
+    <option name="appIdToCheckInfo">
+      <map>
+        <entry key="com.coroukoda.index_pdf_viewer.test">
+          <value>
+            <CheckInfo lastCheckTimestamp="1772544815670" />
+          </value>
+        </entry>
+        <entry key="com.coroukoda.indexpdf">
+          <value>
+            <CheckInfo lastCheckTimestamp="1772544803799" />
+          </value>
+        </entry>
+        <entry key="com.coroukoda.indexpdf.test">
+          <value>
+            <CheckInfo lastCheckTimestamp="1772544803800" />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
