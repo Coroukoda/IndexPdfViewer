@@ -1,59 +1,55 @@
+# ========================
+# Build
+# ========================
 /build
-#######################
-# Android
-#######################
-*.apk
-*.aab
-*.ap_
-*.dex
-*.class
-
-# Built outputs
-/build
-/app/build
-/index_pdf_viewer/build
-
-# Local config
-local.properties
-*.keystore
-*.jks
-
-#######################
-# Gradle
-#######################
 .gradle/
-gradle-wrapper.jar
-build/
-!gradle-wrapper.properties
+**/*.apk
+**/*.aab
+**/*.aar
+**/*.dex
+**/*.class
 
-#######################
-# Android Studio / IntelliJ
-#######################
+# ========================
+# Gradle
+# ========================
+local.properties
+
+# ========================
+# IDE
+# ========================
 .idea/
 *.iml
-*.iws
-*.ipr
-.DS_Store
+.navigation/
 captures/
 .externalNativeBuild/
 .cxx/
 
-#######################
+# ========================
 # Kotlin
-#######################
+# ========================
 *.kotlin_module
 
-#######################
+# ========================
 # Signing & Secrets
-#######################
-keystore.properties
-google-services.json
+# ========================
+*.keystore
+*.jks
 *.p12
 *.pem
+keystore.properties
+signing.properties
+google-services.json
 
-#######################
+# ========================
 # OS
-#######################
+# ========================
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# ========================
+# Publishing
+# ========================
+secret.gpg
+*.gpg
+publish.properties

@@ -1,31 +1,24 @@
+# ========================
+# Build
+# ========================
 /build
-# ========================
-# Built outputs
-# ========================
-/app/build
-/index_pdf_viewer/build
+.gradle/
 **/*.apk
 **/*.aab
 **/*.aar
-**/*.ap_
 **/*.dex
 **/*.class
 
 # ========================
 # Gradle
 # ========================
-.gradle/
-gradle/wrapper/gradle-wrapper.jar
-!gradle/wrapper/gradle-wrapper.properties
 local.properties
 
 # ========================
-# Android Studio / IntelliJ
+# IDE
 # ========================
 .idea/
 *.iml
-*.iws
-*.ipr
 .navigation/
 captures/
 .externalNativeBuild/
@@ -37,7 +30,7 @@ captures/
 *.kotlin_module
 
 # ========================
-# Signing & Secrets  ← MOST IMPORTANT
+# Signing & Secrets
 # ========================
 *.keystore
 *.jks
@@ -46,17 +39,13 @@ captures/
 keystore.properties
 signing.properties
 google-services.json
-local.properties
 
 # ========================
 # OS
 # ========================
 .DS_Store
-.DS_Store?
-._*
 Thumbs.db
 desktop.ini
-ehthumbs.db
 
 # ========================
 # Publishing
