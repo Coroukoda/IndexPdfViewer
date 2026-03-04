@@ -24,7 +24,10 @@ internal fun PdfThumbnailSidebar(
     pageCount: Int,
     selectedPage: Int,
     onPageClick: (Int) -> Unit,
-    modifier: Modifier = Modifier
+    modifier: Modifier = Modifier,
+    color: Color =Color.LightGray.copy(alpha = 0.3f),
+    borderSelectionColor: Color = MaterialTheme.colorScheme.primary,
+    itemColor: Color = MaterialTheme.colorScheme.surface
 ) {
     // Local state: sidebar starts visible
     var isVisible by remember { mutableStateOf(true) }
@@ -51,7 +54,7 @@ internal fun PdfThumbnailSidebar(
                     .width(80.dp)
                     .fillMaxHeight()
                     .background(
-                        color = Color.LightGray.copy(alpha = 0.3f),
+                        color =color ,
                         shape = RoundedCornerShape(topEnd = 12.dp, bottomEnd = 12.dp)
                     )
                     .padding(vertical = 8.dp),
@@ -77,10 +80,10 @@ internal fun PdfThumbnailSidebar(
                         shape = RoundedCornerShape(8.dp),
                         tonalElevation = if (isSelected) 4.dp else 0.dp,
                         border = if (isSelected) {
-                            BorderStroke(2.dp, MaterialTheme.colorScheme.primary)
+                            BorderStroke(2.dp, borderSelectionColor)
                         } else null
                     ) {
-                        Box(contentAlignment = Alignment.Center) {
+                        Box(contentAlignment = Alignment.Center,modifier = Modifier.background(itemColor)) {
                             Text(
                                 text = "${index + 1}",
                                 style = MaterialTheme.typography.labelSmall
